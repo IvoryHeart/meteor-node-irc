@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "node-irc": "0.3.6"
+    "irc": "0.3.6"
 });
 
 Package.on_use(function (api, where) {
