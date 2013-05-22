@@ -1,1 +1,1 @@
-var irc = Npm.require("node-irc");
+Client = Npm.require("node-irc");
