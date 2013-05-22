@@ -1,1 +1,1 @@
-IRC = Npm.require("irc");
+IRC = Npm.require('irc');
