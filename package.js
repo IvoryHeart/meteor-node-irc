@@ -2,6 +2,10 @@ Package.describe({
   summary: "NodeJS IRC client library"
 });
 
+Npm.depends({
+    "node-irc": "0.3.6"
+});
+
 Package.on_use(function (api, where) {
-  api.add_files('node-irc/lib/irc.js', 'server');
+  api.add_files('irc.js', 'server');
 });
