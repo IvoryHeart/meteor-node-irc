@@ -1,9 +1,9 @@
 {
-  "name": "meteor-node-irc",
+  "name": "irc",
   "description": "NodeJS IRC client library, packaged for Meteor",
   "homepage": "https://github.com/pent/meteor-node-irc",
   "author": "Jonathan Pidgeon <jon@empire5design.com",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "git": "https://github.com/pent/meteor-node-irc.git",
   "packages": {}
 }

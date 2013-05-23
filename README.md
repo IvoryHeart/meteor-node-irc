@@ -6,5 +6,5 @@ A wrapper around [node-irc](https://github.com/martynsmith/node-irc) for use wit
 mrt add meteor-node-irc
 
 #Usage
-client = IRC(server, nickname, {});
+client = IRC.Client(server, nickname, {});
 
