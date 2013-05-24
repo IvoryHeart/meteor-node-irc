@@ -3,6 +3,6 @@
   "description": "NodeJS IRC client library, packaged for Meteor",
   "homepage": "https://github.com/pent/meteor-node-irc",
   "author": "Jonathan Pidgeon <jon@empire5design.com",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "git": "git://github.com/pent/meteor-node-irc.git"
 }
