@@ -8,4 +8,5 @@ Npm.depends({
 
 Package.on_use(function (api, where) {
   api.add_files('irc.js', 'server');
+  api.export('IRC', 'server');
 });
