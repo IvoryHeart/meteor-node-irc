@@ -4,7 +4,7 @@ A wrapper around [node-irc](https://github.com/martynsmith/node-irc) for use wit
 
 #Install
 1. Place in your project packages folder and execute this command
-```bash
+```
 meteor add irc
 ```
 
