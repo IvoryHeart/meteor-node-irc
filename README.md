@@ -6,6 +6,7 @@ A wrapper around [node-irc](https://github.com/martynsmith/node-irc) for use wit
 mrt add irc
 
 #Usage
+```javascript
 client = new IRC.Client(server, nickname, {
       userName: 'botname',
       realName: 'Watson',
@@ -22,4 +23,4 @@ client = new IRC.Client(server, nickname, {
       stripColors: true,
       messageSplit: 400
 });
-
+```
